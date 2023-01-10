@@ -37,15 +37,13 @@
 
 # 📖 Hello Microverse! <a name="about-project"></a>
 
-> About Hello Microverse!
-
 **Hello Microverse!** is my first Microverse project to demonstrate effective use of linters, the GitHub flow, and professional documentation.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> The project was created using HTML and CSS. No frameworks or databases were used.
+The project was created using HTML and CSS. No frameworks or databases were used.
 
 <details>
   <summary>Client</summary>
@@ -72,7 +70,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> The project was designed with the following guidelines in mind:
+The project was designed with the following guidelines in mind:
 
 - **Use linters correctly**
 - **Organize and document professionally**
@@ -84,8 +82,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> The deployed project can be viewed at:
-
 - [Live Demo Link](https://ebidien.github.io/hello-microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -93,8 +89,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> You could create a local copy of this repository.
 
 To get a local copy up and running, follow these steps.
 
@@ -121,8 +115,6 @@ In order to run this project open the index.html file with your favourite web br
 
 ## 👥 Authors <a name="authors"></a>
 
-> The author(s) of the project include:
-
 👤 **Dienebi Ombu**
 
 - GitHub: [@ebidien](https://github.com/ebidien)
@@ -134,8 +126,6 @@ In order to run this project open the index.html file with your favourite web br
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> The following features will be added in a future update of the project:
 
 - [ ] **More HTML content**
 - [ ] **More styling for the CSS file**
@@ -157,9 +147,8 @@ Feel free to check the [issues page](#).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> You may support this project by donating generously to its development
-
 If you like this project...
+  - You may support this project by donating generously to its development
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,17 +156,15 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Thanks to the Microverse Student Success for their great job.
-
 I would like to thank...
+  - **Microverse Student Success** for the great job done in keeping the content fresh
+  - **The Code Reviewers** who did an amazing job reviewing my code and providing useful corrections
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-
-> FAQs
 
 - **How do I donate toward this project?**
 
