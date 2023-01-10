@@ -139,7 +139,7 @@ In order to run this project open the index.html file with your favourite web br
 
 - [ ] **More HTML content**
 - [ ] **More styling for the CSS file**
-- [ ] **CSS media queries for different screen sizes**
+- [ ] **Host file on github.io**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
